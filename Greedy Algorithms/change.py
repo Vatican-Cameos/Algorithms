@@ -11,6 +11,7 @@
 #Output:
 #2
 #2 = 1 + 1.
+#
 #Sample 2.
 #Input:
 #28
