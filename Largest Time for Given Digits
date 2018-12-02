@@ -23,13 +23,6 @@
 #0 <= A[i] <= 9
 
 
-
-
-
-
-
-
-
 class Solution:
     def largestTimeFromDigits(self, A):
         """
